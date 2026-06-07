@@ -1,0 +1,15 @@
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\bin\Debug\net10.0\Pb_Statement.exe
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\bin\Debug\net10.0\Pb_Statement.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\bin\Debug\net10.0\Pb_Statement.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\bin\Debug\net10.0\Pb_Statement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\bin\Debug\net10.0\Pb_Statement.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.sourcelink.json
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\refint\Pb_Statement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\Pb_Statement.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Pb_Statement\obj\Debug\net10.0\ref\Pb_Statement.dll
