@@ -1,0 +1,14 @@
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\bin\Debug\net10.0\OopsApp.exe
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\bin\Debug\net10.0\OopsApp.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\bin\Debug\net10.0\OopsApp.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\bin\Debug\net10.0\OopsApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\bin\Debug\net10.0\OopsApp.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\refint\OopsApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\OopsApp.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\OopsApp\obj\Debug\net10.0\ref\OopsApp.dll

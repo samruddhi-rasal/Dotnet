@@ -1,0 +1,14 @@
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\bin\Debug\net10.0\Readonly.exe
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\bin\Debug\net10.0\Readonly.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\bin\Debug\net10.0\Readonly.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\bin\Debug\net10.0\Readonly.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\bin\Debug\net10.0\Readonly.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\refint\Readonly.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\Readonly.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Readonly\obj\Debug\net10.0\ref\Readonly.dll

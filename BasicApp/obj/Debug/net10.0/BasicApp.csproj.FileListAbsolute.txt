@@ -1,0 +1,14 @@
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\bin\Debug\net10.0\BasicApp.exe
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\bin\Debug\net10.0\BasicApp.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\bin\Debug\net10.0\BasicApp.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\bin\Debug\net10.0\BasicApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\bin\Debug\net10.0\BasicApp.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\refint\BasicApp.dll
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\BasicApp.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\BasicApp\obj\Debug\net10.0\ref\BasicApp.dll

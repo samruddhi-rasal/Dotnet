@@ -1,0 +1,14 @@
+C:\Users\Samruddhi\Desktop\Dotnet\Const\bin\Debug\net10.0\Const.exe
+C:\Users\Samruddhi\Desktop\Dotnet\Const\bin\Debug\net10.0\Const.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\Const\bin\Debug\net10.0\Const.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\Const\bin\Debug\net10.0\Const.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Const\bin\Debug\net10.0\Const.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\refint\Const.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\Const.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Const\obj\Debug\net10.0\ref\Const.dll
