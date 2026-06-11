@@ -2,7 +2,7 @@ namespace Shadowing;
 
 class Child : Parent
 {
-    public new void Show()
+    public  void Show()
     {
         Console.WriteLine("Child");
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shadowing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a300ca60c6489aa83332ff478bc4d9f4a079a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shadowing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shadowing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

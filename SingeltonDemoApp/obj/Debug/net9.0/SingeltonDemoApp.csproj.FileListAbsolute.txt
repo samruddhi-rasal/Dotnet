@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\bin\Debug\net9.0\SingeltonDemoApp.exe
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\bin\Debug\net9.0\SingeltonDemoApp.deps.json
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\bin\Debug\net9.0\SingeltonDemoApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\bin\Debug\net9.0\SingeltonDemoApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\bin\Debug\net9.0\SingeltonDemoApp.pdb
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\refint\SingeltonDemoApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.pdb
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\SingeltonDemoApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\OOSolution\SingeltonDemoApp\obj\Debug\net9.0\ref\SingeltonDemoApp.dll

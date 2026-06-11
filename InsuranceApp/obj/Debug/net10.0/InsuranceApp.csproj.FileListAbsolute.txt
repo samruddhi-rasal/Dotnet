@@ -1,0 +1,15 @@
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\bin\Debug\net10.0\InsuranceApp.exe
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\bin\Debug\net10.0\InsuranceApp.deps.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\bin\Debug\net10.0\InsuranceApp.runtimeconfig.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\bin\Debug\net10.0\InsuranceApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\bin\Debug\net10.0\InsuranceApp.pdb
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.sourcelink.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\refint\InsuranceApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.pdb
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\InsuranceApp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceApp\obj\Debug\net10.0\ref\InsuranceApp.dll

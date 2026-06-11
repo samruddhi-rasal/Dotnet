@@ -1,0 +1,15 @@
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\bin\Debug\net9.0\delegates.exe
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\bin\Debug\net9.0\delegates.deps.json
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\bin\Debug\net9.0\delegates.runtimeconfig.json
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\bin\Debug\net9.0\delegates.dll
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\bin\Debug\net9.0\delegates.pdb
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.AssemblyInfoInputs.cache
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.AssemblyInfo.cs
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.csproj.CoreCompileInputs.cache
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.sourcelink.json
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.dll
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\refint\delegates.dll
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.pdb
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\delegates.genruntimeconfig.cache
+D:\TFL\new tfl\TFLDOTNET\DotNet\OOP\Delegates\delegates assignment\delegates\obj\Debug\net9.0\ref\delegates.dll
