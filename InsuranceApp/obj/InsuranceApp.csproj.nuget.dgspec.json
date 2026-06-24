@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ravi\\TAP\\TAP\\TFLdotNET\\Solutions\\InsuranceApp\\InsuranceApp.csproj": {}
+    "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\InsuranceApp\\InsuranceApp.csproj": {}
   },
   "projects": {
-    "D:\\Ravi\\TAP\\TAP\\TFLdotNET\\Solutions\\InsuranceApp\\InsuranceApp.csproj": {
+    "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\InsuranceApp\\InsuranceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ravi\\TAP\\TAP\\TFLdotNET\\Solutions\\InsuranceApp\\InsuranceApp.csproj",
+        "projectUniqueName": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\InsuranceApp\\InsuranceApp.csproj",
         "projectName": "InsuranceApp",
-        "projectPath": "D:\\Ravi\\TAP\\TAP\\TFLdotNET\\Solutions\\InsuranceApp\\InsuranceApp.csproj",
-        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
-        "outputPath": "D:\\Ravi\\TAP\\TAP\\TFLdotNET\\Solutions\\InsuranceApp\\obj\\",
+        "projectPath": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\InsuranceApp\\InsuranceApp.csproj",
+        "packagesPath": "C:\\Users\\Samruddhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\InsuranceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samruddhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

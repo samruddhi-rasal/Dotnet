@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2LKl2hQDRlc=",
+  "dgSpecHash": "5O40Wpw9TjU=",
   "success": true,
-  "projectFilePath": "D:\\TAP\\My Git Repos\\.NET\\OOSolution\\SingeltonDemoApp\\SingeltonDemoApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\SingeltonDemoApp\\SingeltonDemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samruddhi\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Samruddhi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Samruddhi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Samruddhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

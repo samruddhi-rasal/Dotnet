@@ -22,9 +22,8 @@ public class InsurancePolicyManager
         policies.Add(policy);
         this.SaveAllPolicies(policies);
         policyPurchased.Invoke(); 
-       
-
     }
+    
     public void RegisterClaim()
     {
         claimRegistered.Invoke();
@@ -44,7 +43,7 @@ public class InsurancePolicyManager
 
     public List<Policy> GetAllPolicies()
     {
-        string fileName=@"D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceRestAPIApp\Data\policies.json";
+        string fileName=@"C:\Users\Samruddhi\Desktop\Dotnet\InsuranceRestAPIApp\Data\policies.json";
         string jsonString=File.ReadAllText(fileName);
         var options = new JsonSerializerOptions{ PropertyNameCaseInsensitive = true};
         List<Policy>? policies =JsonSerializer.Deserialize<List<Policy>>(jsonString,options);
@@ -55,7 +54,7 @@ public class InsurancePolicyManager
     public bool  SaveAllPolicies(List<Policy> policies)
     {
         bool status=false;
-        string fileName=@"D:\Ravi\TAP\TAP\TFLdotNET\Solutions\InsuranceRestAPIApp\Data\policies.json";
+        string fileName=@"C:\Users\Samruddhi\Desktop\Dotnet\InsuranceRestAPIApp\Data\policies.json";
         var options = new JsonSerializerOptions{ PropertyNameCaseInsensitive = true};
         string jsonString=JsonSerializer.Serialize(policies,options);
         File.WriteAllText(fileName, jsonString);

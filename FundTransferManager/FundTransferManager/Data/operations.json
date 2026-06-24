@@ -1,0 +1,27 @@
+[
+    {
+        "AccountNumber": "ACC1001",
+        "Status": "D",
+        "StatusMessage": "ATM cash withdrawal",
+        "Amount": 1000.00,
+        "CreatedAt": "2026-06-23T10:00:00Z",
+        "CurrentBalance": 75000.00
+    },
+    {
+        "AccountNumber": "ACC1002",
+        "Status": "C",
+        "StatusMessage": "Online transfer",
+        "Amount": 2500.00,
+        "CreatedAt": "2026-06-23T14:30:00Z",
+        "CurrentBalance": 15000.00
+    },
+    {
+        "AccountNumber": "ACC1003",
+        "Status": "D",
+        "StatusMessage": "Bill payment",
+        "Amount": 500.00,
+        "CreatedAt": "2026-06-23T16:45:00Z",
+        "CurrentBalance": 20000.00
+    }
+
+]

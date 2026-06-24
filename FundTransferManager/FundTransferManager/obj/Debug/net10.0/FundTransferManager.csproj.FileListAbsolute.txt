@@ -1,0 +1,14 @@
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\bin\Debug\net10.0\FundTransferManager.exe
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\bin\Debug\net10.0\FundTransferManager.deps.json
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\bin\Debug\net10.0\FundTransferManager.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\bin\Debug\net10.0\FundTransferManager.dll
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\bin\Debug\net10.0\FundTransferManager.pdb
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.dll
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\refint\FundTransferManager.dll
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.pdb
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\FundTransferManager.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\FundTransferManager\FundTransferManager\obj\Debug\net10.0\ref\FundTransferManager.dll
