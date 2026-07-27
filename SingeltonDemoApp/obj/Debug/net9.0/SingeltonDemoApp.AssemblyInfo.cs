@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingeltonDemoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6494c1e1d6e70277441893c08595bd7c2676f99a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c5cd5af541de786507277af0035fb31cba833b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingeltonDemoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingeltonDemoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
