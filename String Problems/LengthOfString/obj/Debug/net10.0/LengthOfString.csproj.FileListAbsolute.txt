@@ -1,0 +1,15 @@
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\bin\Debug\net10.0\LengthOfString.exe
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\bin\Debug\net10.0\LengthOfString.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\bin\Debug\net10.0\LengthOfString.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\bin\Debug\net10.0\LengthOfString.dll
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\bin\Debug\net10.0\LengthOfString.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.sourcelink.json
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.dll
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\refint\LengthOfString.dll
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\LengthOfString.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\String Problems\LengthOfString\obj\Debug\net10.0\ref\LengthOfString.dll

@@ -1,0 +1,6 @@
+@HRAsyncWebApi_HostAddress = http://localhost:5081
+
+GET {{HRAsyncWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
