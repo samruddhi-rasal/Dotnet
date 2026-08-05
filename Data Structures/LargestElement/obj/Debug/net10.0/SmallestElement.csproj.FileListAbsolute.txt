@@ -1,0 +1,15 @@
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\bin\Debug\net10.0\SmallestElement.exe
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\bin\Debug\net10.0\SmallestElement.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\bin\Debug\net10.0\SmallestElement.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\bin\Debug\net10.0\SmallestElement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\bin\Debug\net10.0\SmallestElement.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.sourcelink.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\refint\SmallestElement.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\SmallestElement.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\LargestElement\obj\Debug\net10.0\ref\SmallestElement.dll
