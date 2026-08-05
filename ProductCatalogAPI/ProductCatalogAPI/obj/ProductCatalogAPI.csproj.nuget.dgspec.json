@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samruddhi\\Downloads\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {}
+    "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samruddhi\\Downloads\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {
+    "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samruddhi\\Downloads\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
         "projectName": "ProductCatalogAPI",
-        "projectPath": "C:\\Users\\Samruddhi\\Downloads\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+        "projectPath": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\ProductCatalogAPI\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
         "packagesPath": "C:\\Users\\Samruddhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samruddhi\\Downloads\\ProductCatalogAPI\\ProductCatalogAPI\\obj\\",
+        "outputPath": "C:\\Users\\Samruddhi\\Desktop\\Dotnet\\ProductCatalogAPI\\ProductCatalogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundTransferManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+613bca449e1c669612ef044bc5456174cbff5104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567b5f0065a8ebfc621207683abb3addfc232fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundTransferManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundTransferManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
