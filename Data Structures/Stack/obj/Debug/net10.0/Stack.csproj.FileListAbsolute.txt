@@ -1,0 +1,15 @@
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.AssemblyInfo.cs
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.sourcelink.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\bin\Debug\net10.0\Stack.exe
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\bin\Debug\net10.0\Stack.deps.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\bin\Debug\net10.0\Stack.runtimeconfig.json
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\bin\Debug\net10.0\Stack.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\bin\Debug\net10.0\Stack.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\refint\Stack.dll
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.pdb
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\Stack.genruntimeconfig.cache
+C:\Users\Samruddhi\Desktop\Dotnet\Data Structures\Stack\obj\Debug\net10.0\ref\Stack.dll
