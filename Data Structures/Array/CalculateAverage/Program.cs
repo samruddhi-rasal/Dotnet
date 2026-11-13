@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        int[] numbers = { 10, 20, 30, 40, 50 };
+        int[] numbers = { 10, 20, 30, 40, 78 };
 
         int sum = 0;
 
