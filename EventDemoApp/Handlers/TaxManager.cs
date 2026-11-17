@@ -1,4 +1,4 @@
-namespace Taxation;
+                                                                                                                                                                                                                                    namespace Taxation;
 
 public class TaxManager
 {
