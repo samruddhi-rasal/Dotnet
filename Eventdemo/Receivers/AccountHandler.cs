@@ -9,5 +9,8 @@ public class AccountHandler{
         Console.WriteLine("Blocking Account");
     }
 
+   public void Notify(object? sender, EventArgs e){
+        Console.WriteLine("Notifying Account");
+    }
 
 }

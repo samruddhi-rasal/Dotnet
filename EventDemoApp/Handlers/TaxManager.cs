@@ -5,6 +5,18 @@ public class TaxManager
 
     //Event handling logic
     
+
+    public static void  ResetAllTaxes(double amount)
+ {
+       Console.WriteLine("Reset all taxes"); 
+    }
+
+    public void PayServiceTax(double amount)
+    {
+        Console.WriteLine("Pay income tax method called");
+        
+    }
+
     public void  PayIncomeTax(double amount)
     {
         double calculatedTax=5000;

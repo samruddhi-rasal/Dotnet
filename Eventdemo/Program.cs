@@ -4,6 +4,9 @@ AccountHandler handler= new AccountHandler();
 
 Account acc = new Account("1234",5000);
 acc.overBalance+=handler.PayIncomeTax;
+acc.overBalance+=handler.BlockAccount;
+acc.overBalance+=handler.Notify;
+
 acc.Deposit(300000);
 Console.WriteLine($"Account Number: {acc.AccountNumber} ");
 Console.WriteLine($"Account Balance: {acc.Balance} ");

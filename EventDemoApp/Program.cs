@@ -10,6 +10,12 @@ namespace  Banking
         NotificationManager notifyMgr=new NotificationManager();
         TaxManager taxMgr=new TaxManager();
         Account acct123=new Account();
+
+        TaxManager mgr=new TaxManager();
+
+
+        TaxInspector  agent1=new TaxInspector(TaxManager.ResetAllTaxes);
+        agent1(980);
         
         //Orchestration Logic
 
