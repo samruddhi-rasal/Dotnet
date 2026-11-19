@@ -1,0 +1,14 @@
+D:\tryout\dotnet\DesktopApp\bin\Debug\net10.0-windows\DesktopApp.exe
+D:\tryout\dotnet\DesktopApp\bin\Debug\net10.0-windows\DesktopApp.deps.json
+D:\tryout\dotnet\DesktopApp\bin\Debug\net10.0-windows\DesktopApp.runtimeconfig.json
+D:\tryout\dotnet\DesktopApp\bin\Debug\net10.0-windows\DesktopApp.dll
+D:\tryout\dotnet\DesktopApp\bin\Debug\net10.0-windows\DesktopApp.pdb
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.AssemblyInfoInputs.cache
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.AssemblyInfo.cs
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.csproj.CoreCompileInputs.cache
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.dll
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\refint\DesktopApp.dll
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.pdb
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\DesktopApp.genruntimeconfig.cache
+D:\tryout\dotnet\DesktopApp\obj\Debug\net10.0-windows\ref\DesktopApp.dll
